@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1867044_technow.dispatch_management" name="x_1867044_technow.dispatch_management">b9e7f3c0c34e4f1034832925990131ef</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-08 17:20:58</sys_created_on>
+        <sys_id>3de733ccc38e4f1034832925990131ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9e7f3c0c34e4f1034832925990131ef</sys_name>
+        <sys_package display_value="Technow" source="x_1867044_technow">cca7bb0cc38e4f10348329259901313c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technow">cca7bb0cc38e4f10348329259901313c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3de733ccc38e4f1034832925990131ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-08 17:20:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
