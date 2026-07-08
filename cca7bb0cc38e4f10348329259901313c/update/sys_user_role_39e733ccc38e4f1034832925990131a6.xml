@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1867044_technow.release_management</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1867044_technow.release_management</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-08 17:20:58</sys_created_on>
+        <sys_id>39e733ccc38e4f1034832925990131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1867044_technow.release_management</sys_name>
+        <sys_package display_value="Technow" source="x_1867044_technow">cca7bb0cc38e4f10348329259901313c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technow">cca7bb0cc38e4f10348329259901313c</sys_scope>
+        <sys_update_name>sys_user_role_39e733ccc38e4f1034832925990131a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-08 17:20:58</sys_updated_on>
+    </sys_user_role>
+</record_update>

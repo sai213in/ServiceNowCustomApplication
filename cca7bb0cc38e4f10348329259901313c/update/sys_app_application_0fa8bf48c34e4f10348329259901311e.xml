@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Device management and process delivery</description>
+        <device_type>browser</device_type>
+        <hint>Device management and process delivery</hint>
+        <name/>
+        <order/>
+        <roles>x_1867044_technow.device_management,x_1867044_technow.dispatch_management,x_1867044_technow.release_management,x_1867044_technow.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-08 17:24:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fa8bf48c34e4f10348329259901311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Technow" source="x_1867044_technow">cca7bb0cc38e4f10348329259901313c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technow">cca7bb0cc38e4f10348329259901313c</sys_scope>
+        <sys_update_name>sys_app_application_0fa8bf48c34e4f10348329259901311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-08 17:24:20</sys_updated_on>
+        <title>Technow</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
